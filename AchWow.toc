@@ -1,0 +1,18 @@
+## AchWow Addon Table of Contents
+
+### Overview
+This is a basic table of contents for the AchWow WoW 3.3.5 addon.
+
+### Files
+- README.md - The main documentation for the addon.
+- AchWow.lua - The main addon logic.
+- AchWow.xml - The XML layout for the addon interface.
+- AchWow.toc - This file.
+
+### Description
+The AchWow addon is designed to enhance your World of Warcraft 3.3.5 experience. It includes various features that improve gameplay and provide additional functionality.
+
+### Installation Instructions
+1. Download the addon package.
+2. Extract the files to your WoW Addons folder.
+3. Launch World of Warcraft and enable the addon in the interface options.
