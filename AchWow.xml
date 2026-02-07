@@ -1,0 +1,11 @@
+<UI>
+    <Element name="HunterStatistics">
+        <Label text="Hunter Statistics" />
+        <Stats>
+            <Stat name="Damage Done" value="0" />
+            <Stat name="Critical Hits" value="0" />
+            <Stat name="Total Kills" value="0" />
+            <Stat name="Time Played" value="0h 0m" />
+        </Stats>
+    </Element>
+</UI>
