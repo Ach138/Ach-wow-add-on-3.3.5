@@ -1,14 +1,7 @@
-# AchWow TOC
-
-## Interface version
-## Updated for WoW 3.3.5
 ## Interface: 30300
+## Title: AchWow - Hunter Stats
+## Notes: Displays Hunter Statistics (Agility, AP, Crit, Haste, ArP)
+## Author: Ach138
+## Version: 1.0.0
 
-## File References
-- Main file: AchWow.lua
-- ReadMe: README.md
-
-## Additional Information
-- Author: Ach138
-- Version: 1.0.0
-- Description: This is an addon for WoW 3.3.5.
+core.lua
